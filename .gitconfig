@@ -1,0 +1,10 @@
+[user]
+	name = xxxxx
+	email = xxxxx@xxxxx
+[color]
+	diff = auto
+	ui = true
+[diff]
+	algorithm = histogram
+[alias]
+	co = checkout
